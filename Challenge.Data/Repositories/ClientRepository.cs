@@ -15,7 +15,7 @@ public class ClientRepository : IClientRepository
         _context = context;
     }
 
-    public async Task<IList<Client>> GetClients()
+    public async Task<List<Client>> GetClients()
     {
         var clients = await _context.Clients.AsNoTracking().ToListAsync();
         return clients;

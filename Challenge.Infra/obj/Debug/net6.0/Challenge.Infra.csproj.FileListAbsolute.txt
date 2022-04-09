@@ -1,0 +1,17 @@
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Infra.deps.json
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Infra.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Infra.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Data.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Domain.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Data.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\bin\Debug\net6.0\Challenge.Domain.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.csproj.AssemblyReference.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.AssemblyInfoInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.AssemblyInfo.cs
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.csproj.CopyComplete
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\refint\Challenge.Infra.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\Challenge.Infra.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Infra\obj\Debug\net6.0\ref\Challenge.Infra.dll
