@@ -10,9 +10,9 @@ public class ContactController : ControllerBase
 {
     [HttpPost]
     [Route("")]
-    public async Task<IActionResult> Post([FromServices] IContactRepository repository, [FromBody] )
+    public async Task<IActionResult> Post([FromServices] IContactRepository repository)
     {
-        repository.InsertContactAsync();
+        return Ok();
     } 
 
 

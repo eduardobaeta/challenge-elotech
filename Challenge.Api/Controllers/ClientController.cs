@@ -1,12 +1,10 @@
-﻿using Challenge.Api.CustomExceptions;
-using Challenge.Api.ViewModels.Client;
+﻿using Challenge.Api.ViewModels.Client;
 using Challenge.Api.ViewModels.Common;
-using Challenge.Data.Repositories;
 using Challenge.Data.Repositories.Interfaces;
 using Challenge.Domain.Entities;
+using Challenge.Infra.CustomExceptions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.SqlServer.Management;
 
 namespace Challenge.Api.Controllers;
 
