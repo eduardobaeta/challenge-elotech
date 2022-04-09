@@ -1,4 +1,4 @@
-﻿namespace Challenge.Api.CustomExceptions;
+﻿namespace Challenge.Infra.CustomExceptions;
 
 public class NotFoundException : Exception
 {
