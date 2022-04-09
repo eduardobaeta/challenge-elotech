@@ -1,0 +1,12 @@
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\bin\Debug\net6.0\Challenge.Domain.deps.json
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\bin\Debug\net6.0\Challenge.Domain.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\bin\Debug\net6.0\Challenge.Domain.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.csproj.AssemblyReference.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.AssemblyInfo.cs
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\refint\Challenge.Domain.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\Challenge.Domain.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Domain\obj\Debug\net6.0\ref\Challenge.Domain.dll

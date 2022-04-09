@@ -1,0 +1,17 @@
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Data.deps.json
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Data.runtimeconfig.json
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Data.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Data.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Domain.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\bin\Debug\net6.0\Challenge.Domain.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.csproj.AssemblyReference.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.AssemblyInfoInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.AssemblyInfo.cs
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.csproj.CopyComplete
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\refint\Challenge.Data.dll
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.pdb
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\Challenge.Data.genruntimeconfig.cache
+C:\Users\Eduardo Baeta\Desktop\ChallengeElotech\Challenge.Data\obj\Debug\net6.0\ref\Challenge.Data.dll
