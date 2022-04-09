@@ -27,7 +27,7 @@ public class ClientMap : IEntityTypeConfiguration<Client>
         builder.Property(client => client.BirthDate)
             .IsRequired()
             .HasColumnName("BirthDate")
-            .HasColumnType("DateTime");
+            .HasColumnType("DATE");
 
         builder.HasMany(client => client.Contacts)
             .WithOne(contact => contact.Client);
